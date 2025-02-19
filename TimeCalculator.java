@@ -35,7 +35,8 @@ public class TimeCalculator {
                 System.out.println("Invalid input format. Please enter time as hh:mm AM/PM.");
             }
         }
-        //new feature practice for git learning [creating conflict to commit]
+        // new feature practice for git learning [creating conflict to commit]
+        // new feature practice for git learning (code)[Learning about conflicts]
         System.out.printf("Final total time: %.2f hrs\n", totalHours);
         scanner.close();
     }
